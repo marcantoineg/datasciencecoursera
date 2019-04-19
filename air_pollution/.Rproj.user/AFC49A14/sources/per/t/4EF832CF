@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555686555051.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "482641803",
+    "id" : "4EF832CF",
+    "lastKnownWriteTime" : 1555686567,
+    "last_content_update" : 1555686567449,
+    "path" : "~/Desktop/Projects/Coursera/air_pollution/complete.R",
+    "project_path" : "complete.R",
+    "properties" : {
+        "cursorPosition" : "7,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
